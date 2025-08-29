@@ -1,0 +1,14 @@
+# Reel 1: Formula Generation Demo
+
+**Visuals:**
+*   Opening scene: Someone looking frustrated at a complex Excel sheet.
+*   Transition to: Using our AI tool to generate a complex formula with a simple text description.
+*   Close-up: The formula is generated instantly and accurately.
+*   Text overlay: "Stop struggling with formulas! Let AI do the work."
+*   Call to action: "Try our AI-powered Excel tool today! [Link in bio]"
+
+**Audio:**
+*   Upbeat, positive music.
+*   Voiceover (optional): "Tired of spending hours writing Excel formulas? Our AI tool can generate them for you in seconds. Simply describe what you need, and our AI will create the perfect formula. Simply describe what you need, and our AI will create the perfect formula. Try it now and see the magic!"
+
+**Target Audience:** Advanced Excel users, data analysts, and anyone who struggles with complex formulas.
